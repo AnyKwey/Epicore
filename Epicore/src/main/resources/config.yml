@@ -1,0 +1,9 @@
+#Map - Information
+map:
+  access: true
+  name: Unknown
+  author: Minecraft
+  date: DD-MM-YYY
+
+#Nick - boolean
+can-nick-in-party: true

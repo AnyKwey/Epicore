@@ -1,0 +1,31 @@
+main: eu.epicore.com.Epicore
+name: Epicore
+author: AnyKwey
+version: 2964a2b-27
+
+commands:
+  credits:
+    aliases:
+      - crd
+      - credit
+  gems:
+    aliases:
+      - gemmes
+      - gemme
+  list:
+  map:
+  mod:
+  plugin:
+    aliases:
+      - plugins
+      - pl
+      - pls
+  report:
+  shop:
+    aliases:
+      - boutique
+      - store
+  tph:
+  whois:
+  rank:
+  social:
